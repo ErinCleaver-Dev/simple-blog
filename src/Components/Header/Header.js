@@ -1,4 +1,5 @@
 import Login from './Login/Login'
+import Hammburger from './Hammburger/Hammburger'
 
 const Header = () => {
     return (
@@ -7,6 +8,7 @@ const Header = () => {
                 Home Page
             </a>
             <Login/>
+            <Hammburger/>
         </header>
     )
 }

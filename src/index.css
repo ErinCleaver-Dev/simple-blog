@@ -58,14 +58,44 @@
   position: relative;
 }
 
-@media (min-width: 1280px) {
-  
+.Body {
+  height: 100vh;
+  display: flex;
+}
+
+
+.posts {
+  background-color: blue;
+  height: 100vh;
+  width: 100%;
+}
+
+
+.sidebar {
+  display: hidden;
 }
 
 @media (min-width: 764px) {
   .banner {
     font-size: 4.5em;
+  }
 
+  .sidebar {
+    flex: 1;
+    background-color: orange;
+    height: 100vh;
+  }
+
+  .Body {
+    margin: 0px 10%;
+  }
+
+  .posts {
+    flex: 2.5;
+  }
+
+.hidden {
+    display: none;
   }
 }
 
