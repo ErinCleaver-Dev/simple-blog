@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-blog/static/css/main.bf194ff9.chunk.css",
+    "main.js": "/simple-blog/static/js/main.c94d59d2.chunk.js",
+    "main.js.map": "/simple-blog/static/js/main.c94d59d2.chunk.js.map",
+    "runtime-main.js": "/simple-blog/static/js/runtime-main.16fc9c73.js",
+    "runtime-main.js.map": "/simple-blog/static/js/runtime-main.16fc9c73.js.map",
+    "static/js/2.7972aae1.chunk.js": "/simple-blog/static/js/2.7972aae1.chunk.js",
+    "static/js/2.7972aae1.chunk.js.map": "/simple-blog/static/js/2.7972aae1.chunk.js.map",
+    "static/js/3.f54c809d.chunk.js": "/simple-blog/static/js/3.f54c809d.chunk.js",
+    "static/js/3.f54c809d.chunk.js.map": "/simple-blog/static/js/3.f54c809d.chunk.js.map",
+    "index.html": "/simple-blog/index.html",
+    "static/css/main.bf194ff9.chunk.css.map": "/simple-blog/static/css/main.bf194ff9.chunk.css.map",
+    "static/js/2.7972aae1.chunk.js.LICENSE.txt": "/simple-blog/static/js/2.7972aae1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simple-blog/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16fc9c73.js",
+    "static/js/2.7972aae1.chunk.js",
+    "static/css/main.bf194ff9.chunk.css",
+    "static/js/main.c94d59d2.chunk.js"
+  ]
+}
